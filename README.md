@@ -1,5 +1,5 @@
 # Data Warehouse Fase 1
-------------------------------------------------------------------------------
+---
 **Proyecto:** Data Warehouse para AdventureWorks
 **Tema:** SQL, Base de Datos, DW
 **Fecha de Entrega:** Indicada en la asignación del GES
