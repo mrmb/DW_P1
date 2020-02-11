@@ -1,9 +1,9 @@
 # Data Warehouse Fase 1
 ------------------------------------------------------------------------------
-**Proyecto:** Data Warehouse para AdventureWorks\
-**Tema:** SQL, Base de Datos, DW\
-**Fecha de Entrega:** Indicada en la asignación del GES\
-**Grupo:** Grupos de 4 o 5 personas\
+**Proyecto:** Data Warehouse para AdventureWorks
+**Tema:** SQL, Base de Datos, DW
+**Fecha de Entrega:** Indicada en la asignación del GES
+**Grupo:** Grupos de 4 o 5 personas
 **Calificación:** Presentación de entregables en clase
 **Adventure Works DB:** [DB link](https://github.com/Microsoft/sql-server-samples/releases/download/adventureworks/AdventureWorks2017.bak)
 ------------------------------------------------------------------------------
@@ -27,10 +27,10 @@ Kimball Business Dimensional Lifecycle Diagram:
 
 
 ## Especificaciones:
-Aventure Works es una base de datos publica que cuenta con 65 tablas, Esta base de datos esta normalizada, por lo cual existen llaves primarias y foráneas que se deben analizar para determinar la relación que existe en la base de datos. Al obtener información sobre la base de datos, se busca la creación de un Data Warehouse, En la segunda fase se deberá de exponer todo el proyecto, es por ello que en esta fase se solicitaran entregables para cada etapa con el fin de ayudarlo en la presentación final. 
+Aventure Works es una base de datos normalizada, por lo cual existen llaves primarias y foráneas que se deben analizar para determinar la relación que existe en la base de datos. Al obtener información sobre la base de datos, se busca la creación de un Data Warehouse, En la segunda fase se deberá de exponer todo el proyecto, es por ello que en esta fase se solicitaran entregables para cada etapa con el fin de ayudarlo en la presentación final. 
 
 ## 1. Project Planning:
-El esta etapa, su grupo debe de crear una planificación en cualquier herramienta de planificación, con el fin de listar todas las tareas a realizar por el proyecto. 
+Para esta etapa, su grupo debe de crear una planificación en cualquier herramienta de planificación, con el fin de listar todas las tareas a realizar por el proyecto. 
        
        Entregable: Project management plan para el Proyecto Data Warehouse para AdventureWorks.
 
