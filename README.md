@@ -1,12 +1,13 @@
 # Data Warehouse Fase 1
----
-**Proyecto:** Data Warehouse para AdventureWorks
+
+*Proyecto:* Data Warehouse para AdventureWorks
 **Tema:** SQL, Base de Datos, DW
 **Fecha de Entrega:** Indicada en la asignación del GES
 **Grupo:** Grupos de 4 o 5 personas
 **Calificación:** Presentación de entregables en clase
 **Adventure Works DB:** [DB link](https://github.com/Microsoft/sql-server-samples/releases/download/adventureworks/AdventureWorks2017.bak)
-------------------------------------------------------------------------------
+
+##
 
 **ATENCIÓN:** Todos los proyectos consumen tiempo, así que trate de empezar lo más pronto que pueda. Recuerde que el proyecto es en GRUPOS, es decir que no puede trabajar junto a otros compañeros de otros grupos.
 
