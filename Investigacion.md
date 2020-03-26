@@ -3,7 +3,7 @@
 **Investigación:** Conectores JDBC y ODBC\
 **Tema:** SQL Server y Pentaho\
 **Fecha de Entrega:** Tienen hasta el 03/04/2020 para entregarlo\
-**Forma de Entrega:** Plataforma de Google con los entregables\
+**Forma de Entrega:** Plataforma de Google con los entregables
 
 **ATENCIÓN:** Para esta investigación se busca que el estudiante pueda utilizar la herramienta Pentaho y conectarse a una fuente de base de datos externa. Debido a que no se pudo validar que Pentaho estuviera instalado en las maquinas de los estudiantes, brindaremos un acceso en la plataforma de Google para maquinas virtuales en donde podrán acceder y hacer su práctica.  
 
